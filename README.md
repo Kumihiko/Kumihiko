@@ -1,4 +1,7 @@
-## Hi there 👋
+3rd-year Computer Science student passionate about networking, cybersecurity, and Python scripting.
+Finished CCNA course, building projects around network analysis, automation, and low-level security tools.
+Languages/tools I use: Python, C++, C#, SQL, Oracle, Java, XAML, Wireshark, Packet Tracer
+Always exploring how things connect — in code, cables, or ideas.
 
 <!--
 **Kumihiko/Kumihiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
