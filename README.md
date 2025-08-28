@@ -29,5 +29,5 @@ A **paid internship** or entry-level role in **IT / Cybersecurity / Networking /
 ## 📫 Find Me Here
 - 🌐 [LinkedIn](https://www.linkedin.com/in/bartosz-kruczkowski)  
 - 💻 [GitHub](https://github.com/Kumihiko)
-- 🤖 http://cvkruczkowskibartosz.s3-website.eu-central-1.amazonaws.com/
+- 🤖 [http://cvkruczkowskibartosz.s3-website.eu-central-1.amazonaws.com/](https://cvkruczkowskibartosz.s3.eu-central-1.amazonaws.com/index.html)
 - 📧 kruczkowskibartek01@gmail.com
