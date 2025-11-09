@@ -2,8 +2,6 @@
 
 I'm a **Computer Science (3rd year)** student specializing in **Cybersecurity**. My day-to-day focus is on network analysis, systems programming in Python, and cloud platforms (AWS/Azure).
 
-I am currently actively seeking a **paid internship or job** where I can leverage my skills and contribute to real-world tasks within a security team.
-
 * 💼 **LinkedIn**: [linkedin.com/in/bartosz-kruczkowski](https://www.linkedin.com/in/bartosz-kruczkowski)
 * 🌐 **Portfolio**: [bartoszkruczkowski.pl](https://bartoszkruczkowski.pl/)
 
