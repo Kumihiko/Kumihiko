@@ -19,9 +19,9 @@ I'm a **Computer Science (3rd year)** student specializing in **Cybersecurity**.
 
 ---
 
-## Certifications
+## Courses
 
-* **Certifications**
+* **Courses**
     * **Cisco CCNA 7.0**
     * **AWS Cloud Practitioner Essentials**
     * **AWS Cloud Quest: Cloud Practitioner**
